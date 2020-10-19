@@ -4,4 +4,6 @@
 
 develop ブランチでの変更！
 
-git fetchの練習 <- 今ここ！
+git fetchの練習
+
+git pullの練習 <- 今ここ！

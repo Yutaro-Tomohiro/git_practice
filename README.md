@@ -8,4 +8,6 @@ git fetch の練習
 
 git pull の練習
 
-git rebase の練習 master からコミット１ <- 今ここ！
+git rebase の練習 master からコミット１
+
+git rebase の練習 master からコミット 2 <- 今ここ！

@@ -4,6 +4,8 @@
 
 develop ブランチでの変更！
 
-git fetchの練習
+git fetch の練習
 
-git pullの練習 <- 今ここ！
+git pull の練習
+
+git rebase の練習 master からコミット１ <- 今ここ！

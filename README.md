@@ -3,3 +3,7 @@
 変更を加える！
 
 develop ブランチでの変更！
+
+git fetchの練習
+
+git pullの練習 <- 今ここ！
